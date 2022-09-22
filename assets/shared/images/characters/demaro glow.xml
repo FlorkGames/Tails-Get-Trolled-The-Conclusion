@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="demaro glow.png">
+	<!-- Created with Adobe Animate version 16.1.0.86 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="demaro down0000" x="100" y="100" width="398" height="399" pivotX="216.85" pivotY="187.15" frameX="0" frameY="-7" frameWidth="398" frameHeight="406"/>
+	<SubTexture name="demaro down0001" x="100" y="100" width="398" height="399" frameX="0" frameY="-7" frameWidth="398" frameHeight="406"/>
+	<SubTexture name="demaro down0002" x="598" y="100" width="396" height="406" frameX="-2" frameY="0" frameWidth="398" frameHeight="406"/>
+	<SubTexture name="demaro down0003" x="598" y="100" width="396" height="406" frameX="-2" frameY="0" frameWidth="398" frameHeight="406"/>
+	<SubTexture name="demaro down0004" x="1094" y="100" width="396" height="405" frameX="-2" frameY="-1" frameWidth="398" frameHeight="406"/>
+	<SubTexture name="demaro down0005" x="1094" y="100" width="396" height="405" frameX="-2" frameY="-1" frameWidth="398" frameHeight="406"/>
+	<SubTexture name="demaro down0006" x="1094" y="100" width="396" height="405" frameX="-2" frameY="-1" frameWidth="398" frameHeight="406"/>
+	<SubTexture name="demaro down0007" x="1094" y="100" width="396" height="405" frameX="-2" frameY="-1" frameWidth="398" frameHeight="406"/>
+	<SubTexture name="demaro down0008" x="1094" y="100" width="396" height="405" frameX="-2" frameY="-1" frameWidth="398" frameHeight="406"/>
+	<SubTexture name="demaro down0009" x="1094" y="100" width="396" height="405" frameX="-2" frameY="-1" frameWidth="398" frameHeight="406"/>
+	<SubTexture name="demaro down0010" x="1094" y="100" width="396" height="405" frameX="-2" frameY="-1" frameWidth="398" frameHeight="406"/>
+	<SubTexture name="demaro down0011" x="1094" y="100" width="396" height="405" frameX="-2" frameY="-1" frameWidth="398" frameHeight="406"/>
+	<SubTexture name="demaro down0012" x="1094" y="100" width="396" height="405" frameX="-2" frameY="-1" frameWidth="398" frameHeight="406"/>
+	<SubTexture name="demaro down0013" x="1094" y="100" width="396" height="405" frameX="-2" frameY="-1" frameWidth="398" frameHeight="406"/>
+	<SubTexture name="demaro idle0000" x="100" y="606" width="369" height="420" pivotX="195.5" pivotY="218.85" frameX="-1" frameY="-16" frameWidth="370" frameHeight="437"/>
+	<SubTexture name="demaro idle0001" x="100" y="606" width="369" height="420" frameX="-1" frameY="-16" frameWidth="370" frameHeight="437"/>
+	<SubTexture name="demaro idle0002" x="569" y="606" width="370" height="428" frameX="0" frameY="-9" frameWidth="370" frameHeight="437"/>
+	<SubTexture name="demaro idle0003" x="569" y="606" width="370" height="428" frameX="0" frameY="-9" frameWidth="370" frameHeight="437"/>
+	<SubTexture name="demaro idle0004" x="1039" y="606" width="360" height="434" frameX="-7" frameY="-3" frameWidth="370" frameHeight="437"/>
+	<SubTexture name="demaro idle0005" x="1039" y="606" width="360" height="434" frameX="-7" frameY="-3" frameWidth="370" frameHeight="437"/>
+	<SubTexture name="demaro idle0006" x="1499" y="606" width="357" height="436" frameX="-10" frameY="-1" frameWidth="370" frameHeight="437"/>
+	<SubTexture name="demaro idle0007" x="1499" y="606" width="357" height="436" frameX="-10" frameY="-1" frameWidth="370" frameHeight="437"/>
+	<SubTexture name="demaro idle0008" x="100" y="1142" width="357" height="437" frameX="-10" frameY="0" frameWidth="370" frameHeight="437"/>
+	<SubTexture name="demaro idle0009" x="100" y="1142" width="357" height="437" frameX="-10" frameY="0" frameWidth="370" frameHeight="437"/>
+	<SubTexture name="demaro idle0010" x="557" y="1142" width="356" height="437" frameX="-11" frameY="0" frameWidth="370" frameHeight="437"/>
+	<SubTexture name="demaro idle0011" x="100" y="1142" width="357" height="437" frameX="-10" frameY="0" frameWidth="370" frameHeight="437"/>
+	<SubTexture name="demaro idle0012" x="100" y="1142" width="357" height="437" frameX="-10" frameY="0" frameWidth="370" frameHeight="437"/>
+	<SubTexture name="demaro idle0013" x="100" y="1142" width="357" height="437" frameX="-10" frameY="0" frameWidth="370" frameHeight="437"/>
+	<SubTexture name="demaro left0000" x="1013" y="1142" width="481" height="453" pivotX="322.4" pivotY="215.55" frameX="0" frameY="0" frameWidth="484" frameHeight="453"/>
+	<SubTexture name="demaro left0001" x="1013" y="1142" width="481" height="453" frameX="0" frameY="0" frameWidth="484" frameHeight="453"/>
+	<SubTexture name="demaro left0002" x="100" y="1695" width="478" height="452" frameX="-6" frameY="-1" frameWidth="484" frameHeight="453"/>
+	<SubTexture name="demaro left0003" x="100" y="1695" width="478" height="452" frameX="-6" frameY="-1" frameWidth="484" frameHeight="453"/>
+	<SubTexture name="demaro left0004" x="678" y="1695" width="478" height="453" frameX="-5" frameY="0" frameWidth="484" frameHeight="453"/>
+	<SubTexture name="demaro left0005" x="678" y="1695" width="478" height="453" frameX="-5" frameY="0" frameWidth="484" frameHeight="453"/>
+	<SubTexture name="demaro left0006" x="678" y="1695" width="478" height="453" frameX="-5" frameY="0" frameWidth="484" frameHeight="453"/>
+	<SubTexture name="demaro left0007" x="678" y="1695" width="478" height="453" frameX="-5" frameY="0" frameWidth="484" frameHeight="453"/>
+	<SubTexture name="demaro left0008" x="678" y="1695" width="478" height="453" frameX="-5" frameY="0" frameWidth="484" frameHeight="453"/>
+	<SubTexture name="demaro left0009" x="678" y="1695" width="478" height="453" frameX="-5" frameY="0" frameWidth="484" frameHeight="453"/>
+	<SubTexture name="demaro left0010" x="678" y="1695" width="478" height="453" frameX="-5" frameY="0" frameWidth="484" frameHeight="453"/>
+	<SubTexture name="demaro left0011" x="678" y="1695" width="478" height="453" frameX="-5" frameY="0" frameWidth="484" frameHeight="453"/>
+	<SubTexture name="demaro left0012" x="678" y="1695" width="478" height="453" frameX="-5" frameY="0" frameWidth="484" frameHeight="453"/>
+	<SubTexture name="demaro left0013" x="678" y="1695" width="478" height="453" frameX="-5" frameY="0" frameWidth="484" frameHeight="453"/>
+	<SubTexture name="demaro right0000" x="1256" y="1695" width="384" height="440" pivotX="157.55" pivotY="222.25" frameX="0" frameY="-1" frameWidth="384" frameHeight="441"/>
+	<SubTexture name="demaro right0001" x="1256" y="1695" width="384" height="440" frameX="0" frameY="-1" frameWidth="384" frameHeight="441"/>
+	<SubTexture name="demaro right0002" x="100" y="2248" width="377" height="440" frameX="0" frameY="-1" frameWidth="384" frameHeight="441"/>
+	<SubTexture name="demaro right0003" x="100" y="2248" width="377" height="440" frameX="0" frameY="-1" frameWidth="384" frameHeight="441"/>
+	<SubTexture name="demaro right0004" x="577" y="2248" width="378" height="441" frameX="-1" frameY="0" frameWidth="384" frameHeight="441"/>
+	<SubTexture name="demaro right0005" x="577" y="2248" width="378" height="441" frameX="-1" frameY="0" frameWidth="384" frameHeight="441"/>
+	<SubTexture name="demaro right0006" x="577" y="2248" width="378" height="441" frameX="-1" frameY="0" frameWidth="384" frameHeight="441"/>
+	<SubTexture name="demaro right0007" x="577" y="2248" width="378" height="441" frameX="-1" frameY="0" frameWidth="384" frameHeight="441"/>
+	<SubTexture name="demaro right0008" x="577" y="2248" width="378" height="441" frameX="-1" frameY="0" frameWidth="384" frameHeight="441"/>
+	<SubTexture name="demaro right0009" x="577" y="2248" width="378" height="441" frameX="-1" frameY="0" frameWidth="384" frameHeight="441"/>
+	<SubTexture name="demaro right0010" x="577" y="2248" width="378" height="441" frameX="-1" frameY="0" frameWidth="384" frameHeight="441"/>
+	<SubTexture name="demaro right0011" x="577" y="2248" width="378" height="441" frameX="-1" frameY="0" frameWidth="384" frameHeight="441"/>
+	<SubTexture name="demaro right0012" x="577" y="2248" width="378" height="441" frameX="-1" frameY="0" frameWidth="384" frameHeight="441"/>
+	<SubTexture name="demaro right0013" x="577" y="2248" width="378" height="441" frameX="-1" frameY="0" frameWidth="384" frameHeight="441"/>
+	<SubTexture name="demaro up0000" x="1055" y="2248" width="377" height="506" pivotX="205.15" pivotY="256.1" frameX="-3" frameY="0" frameWidth="382" frameHeight="506"/>
+	<SubTexture name="demaro up0001" x="1055" y="2248" width="377" height="506" frameX="-3" frameY="0" frameWidth="382" frameHeight="506"/>
+	<SubTexture name="demaro up0002" x="1532" y="2248" width="381" height="494" frameX="0" frameY="-11" frameWidth="382" frameHeight="506"/>
+	<SubTexture name="demaro up0003" x="1532" y="2248" width="381" height="494" frameX="0" frameY="-11" frameWidth="382" frameHeight="506"/>
+	<SubTexture name="demaro up0004" x="100" y="2854" width="382" height="494" frameX="0" frameY="-11" frameWidth="382" frameHeight="506"/>
+	<SubTexture name="demaro up0005" x="100" y="2854" width="382" height="494" frameX="0" frameY="-11" frameWidth="382" frameHeight="506"/>
+	<SubTexture name="demaro up0006" x="100" y="2854" width="382" height="494" frameX="0" frameY="-11" frameWidth="382" frameHeight="506"/>
+	<SubTexture name="demaro up0007" x="100" y="2854" width="382" height="494" frameX="0" frameY="-11" frameWidth="382" frameHeight="506"/>
+	<SubTexture name="demaro up0008" x="100" y="2854" width="382" height="494" frameX="0" frameY="-11" frameWidth="382" frameHeight="506"/>
+	<SubTexture name="demaro up0009" x="100" y="2854" width="382" height="494" frameX="0" frameY="-11" frameWidth="382" frameHeight="506"/>
+	<SubTexture name="demaro up0010" x="100" y="2854" width="382" height="494" frameX="0" frameY="-11" frameWidth="382" frameHeight="506"/>
+	<SubTexture name="demaro up0011" x="100" y="2854" width="382" height="494" frameX="0" frameY="-11" frameWidth="382" frameHeight="506"/>
+	<SubTexture name="demaro up0012" x="100" y="2854" width="382" height="494" frameX="0" frameY="-11" frameWidth="382" frameHeight="506"/>
+	<SubTexture name="demaro up0013" x="100" y="2854" width="382" height="494" frameX="0" frameY="-11" frameWidth="382" frameHeight="506"/>
+</TextureAtlas>

@@ -1,0 +1,389 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Coyote.png">
+	<!-- Created with Adobe Animate version 16.1.0.86 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="wile adorable0000" x="10" y="10" width="439" height="701" frameX="-43" frameY="-77" frameWidth="482" frameHeight="778"/>
+	<SubTexture name="wile adorable0001" x="10" y="10" width="439" height="701" frameX="-43" frameY="-77" frameWidth="482" frameHeight="778"/>
+	<SubTexture name="wile adorable0002" x="459" y="10" width="420" height="777" frameX="-17" frameY="0" frameWidth="482" frameHeight="778"/>
+	<SubTexture name="wile adorable0003" x="459" y="10" width="420" height="777" frameX="-17" frameY="0" frameWidth="482" frameHeight="778"/>
+	<SubTexture name="wile adorable0004" x="889" y="10" width="455" height="707" frameX="0" frameY="-70" frameWidth="482" frameHeight="778"/>
+	<SubTexture name="wile adorable0005" x="889" y="10" width="455" height="707" frameX="0" frameY="-70" frameWidth="482" frameHeight="778"/>
+	<SubTexture name="wile adorable0006" x="1354" y="10" width="441" height="728" frameX="-7" frameY="-49" frameWidth="482" frameHeight="778"/>
+	<SubTexture name="wile adorable0007" x="1354" y="10" width="441" height="728" frameX="-7" frameY="-49" frameWidth="482" frameHeight="778"/>
+	<SubTexture name="wile adorable0008" x="1805" y="10" width="441" height="728" frameX="-7" frameY="-49" frameWidth="482" frameHeight="778"/>
+	<SubTexture name="wile adorable0009" x="2256" y="10" width="444" height="728" frameX="-4" frameY="-49" frameWidth="482" frameHeight="778"/>
+	<SubTexture name="wile adorable0010" x="2256" y="10" width="444" height="728" frameX="-4" frameY="-49" frameWidth="482" frameHeight="778"/>
+	<SubTexture name="wile adorable0011" x="2710" y="10" width="444" height="727" frameX="-4" frameY="-50" frameWidth="482" frameHeight="778"/>
+	<SubTexture name="wile adorable0012" x="2710" y="10" width="444" height="727" frameX="-4" frameY="-50" frameWidth="482" frameHeight="778"/>
+	<SubTexture name="wile adorable0013" x="2710" y="10" width="444" height="727" frameX="-4" frameY="-50" frameWidth="482" frameHeight="778"/>
+	<SubTexture name="wile adorable0014" x="2710" y="10" width="444" height="727" frameX="-4" frameY="-50" frameWidth="482" frameHeight="778"/>
+	<SubTexture name="wile adorable0015" x="2710" y="10" width="444" height="727" frameX="-4" frameY="-50" frameWidth="482" frameHeight="778"/>
+	<SubTexture name="wile adorable0016" x="2710" y="10" width="444" height="727" frameX="-4" frameY="-50" frameWidth="482" frameHeight="778"/>
+	<SubTexture name="wile adorable0017" x="2710" y="10" width="444" height="727" frameX="-4" frameY="-50" frameWidth="482" frameHeight="778"/>
+	<SubTexture name="wile adorable0018" x="2710" y="10" width="444" height="727" frameX="-4" frameY="-50" frameWidth="482" frameHeight="778"/>
+	<SubTexture name="wile adorable0019" x="2710" y="10" width="444" height="727" frameX="-4" frameY="-50" frameWidth="482" frameHeight="778"/>
+	<SubTexture name="wile adorable0020" x="2710" y="10" width="444" height="727" frameX="-4" frameY="-50" frameWidth="482" frameHeight="778"/>
+	<SubTexture name="wile adorable0021" x="2710" y="10" width="444" height="727" frameX="-4" frameY="-50" frameWidth="482" frameHeight="778"/>
+	<SubTexture name="wile adorable0022" x="2710" y="10" width="444" height="727" frameX="-4" frameY="-50" frameWidth="482" frameHeight="778"/>
+	<SubTexture name="wile adorable0023" x="2710" y="10" width="444" height="727" frameX="-4" frameY="-50" frameWidth="482" frameHeight="778"/>
+	<SubTexture name="wile adorable0024" x="2710" y="10" width="444" height="727" frameX="-4" frameY="-50" frameWidth="482" frameHeight="778"/>
+	<SubTexture name="wile adorable0025" x="2710" y="10" width="444" height="727" frameX="-4" frameY="-50" frameWidth="482" frameHeight="778"/>
+	<SubTexture name="wile adorable0026" x="2710" y="10" width="444" height="727" frameX="-4" frameY="-50" frameWidth="482" frameHeight="778"/>
+	<SubTexture name="wile adorable0027" x="2710" y="10" width="444" height="727" frameX="-4" frameY="-50" frameWidth="482" frameHeight="778"/>
+	<SubTexture name="wile adorable0028" x="3164" y="10" width="394" height="727" frameX="-56" frameY="-50" frameWidth="482" frameHeight="778"/>
+	<SubTexture name="wile adorable0029" x="3164" y="10" width="394" height="727" frameX="-56" frameY="-50" frameWidth="482" frameHeight="778"/>
+	<SubTexture name="wile adorable0030" x="3568" y="10" width="384" height="726" frameX="-67" frameY="-51" frameWidth="482" frameHeight="778"/>
+	<SubTexture name="wile adorable0031" x="3568" y="10" width="384" height="726" frameX="-67" frameY="-51" frameWidth="482" frameHeight="778"/>
+	<SubTexture name="wile adorable0032" x="3568" y="10" width="384" height="726" frameX="-67" frameY="-51" frameWidth="482" frameHeight="778"/>
+	<SubTexture name="wile adorable0033" x="3568" y="10" width="384" height="726" frameX="-67" frameY="-51" frameWidth="482" frameHeight="778"/>
+	<SubTexture name="wile adorable0034" x="3568" y="10" width="384" height="726" frameX="-67" frameY="-51" frameWidth="482" frameHeight="778"/>
+	<SubTexture name="wile adorable0035" x="3568" y="10" width="384" height="726" frameX="-67" frameY="-51" frameWidth="482" frameHeight="778"/>
+	<SubTexture name="wile adorable0036" x="3568" y="10" width="384" height="726" frameX="-67" frameY="-51" frameWidth="482" frameHeight="778"/>
+	<SubTexture name="wile adorable0037" x="3568" y="10" width="384" height="726" frameX="-67" frameY="-51" frameWidth="482" frameHeight="778"/>
+	<SubTexture name="wile adorable0038" x="3568" y="10" width="384" height="726" frameX="-67" frameY="-51" frameWidth="482" frameHeight="778"/>
+	<SubTexture name="wile adorable0039" x="3568" y="10" width="384" height="726" frameX="-67" frameY="-51" frameWidth="482" frameHeight="778"/>
+	<SubTexture name="wile adorable0040" x="3568" y="10" width="384" height="726" frameX="-67" frameY="-51" frameWidth="482" frameHeight="778"/>
+	<SubTexture name="wile adorable0041" x="3568" y="10" width="384" height="726" frameX="-67" frameY="-51" frameWidth="482" frameHeight="778"/>
+	<SubTexture name="wile adorable0042" x="3568" y="10" width="384" height="726" frameX="-67" frameY="-51" frameWidth="482" frameHeight="778"/>
+	<SubTexture name="wile adorable0043" x="3568" y="10" width="384" height="726" frameX="-67" frameY="-51" frameWidth="482" frameHeight="778"/>
+	<SubTexture name="wile adorable0044" x="3568" y="10" width="384" height="726" frameX="-67" frameY="-51" frameWidth="482" frameHeight="778"/>
+	<SubTexture name="wile adorable0045" x="3568" y="10" width="384" height="726" frameX="-67" frameY="-51" frameWidth="482" frameHeight="778"/>
+	<SubTexture name="wile adorable0046" x="3568" y="10" width="384" height="726" frameX="-67" frameY="-51" frameWidth="482" frameHeight="778"/>
+	<SubTexture name="wile adorable0047" x="3568" y="10" width="384" height="726" frameX="-67" frameY="-51" frameWidth="482" frameHeight="778"/>
+	<SubTexture name="wile adorable0048" x="3568" y="10" width="384" height="726" frameX="-67" frameY="-51" frameWidth="482" frameHeight="778"/>
+	<SubTexture name="wile adorable0049" x="3568" y="10" width="384" height="726" frameX="-67" frameY="-51" frameWidth="482" frameHeight="778"/>
+	<SubTexture name="wile adorable0050" x="10" y="797" width="384" height="726" frameX="-67" frameY="-51" frameWidth="482" frameHeight="778"/>
+	<SubTexture name="wile adorable0051" x="10" y="797" width="384" height="726" frameX="-67" frameY="-51" frameWidth="482" frameHeight="778"/>
+	<SubTexture name="wile adorable0052" x="10" y="797" width="384" height="726" frameX="-67" frameY="-51" frameWidth="482" frameHeight="778"/>
+	<SubTexture name="wile adorable0053" x="10" y="797" width="384" height="726" frameX="-67" frameY="-51" frameWidth="482" frameHeight="778"/>
+	<SubTexture name="wile adorable0054" x="10" y="797" width="384" height="726" frameX="-67" frameY="-51" frameWidth="482" frameHeight="778"/>
+	<SubTexture name="wile adorable0055" x="10" y="797" width="384" height="726" frameX="-67" frameY="-51" frameWidth="482" frameHeight="778"/>
+	<SubTexture name="wile adorable0056" x="10" y="797" width="384" height="726" frameX="-67" frameY="-51" frameWidth="482" frameHeight="778"/>
+	<SubTexture name="wile adorable0057" x="10" y="797" width="384" height="726" frameX="-67" frameY="-51" frameWidth="482" frameHeight="778"/>
+	<SubTexture name="wile adorable0058" x="10" y="797" width="384" height="726" frameX="-67" frameY="-51" frameWidth="482" frameHeight="778"/>
+	<SubTexture name="wile adorable0059" x="10" y="797" width="384" height="726" frameX="-67" frameY="-51" frameWidth="482" frameHeight="778"/>
+	<SubTexture name="wile adorable0060" x="10" y="797" width="384" height="726" frameX="-67" frameY="-51" frameWidth="482" frameHeight="778"/>
+	<SubTexture name="wile adorable0061" x="10" y="797" width="384" height="726" frameX="-67" frameY="-51" frameWidth="482" frameHeight="778"/>
+	<SubTexture name="wile adorable0062" x="10" y="797" width="384" height="726" frameX="-67" frameY="-51" frameWidth="482" frameHeight="778"/>
+	<SubTexture name="wile adorable0063" x="10" y="797" width="384" height="726" frameX="-67" frameY="-51" frameWidth="482" frameHeight="778"/>
+	<SubTexture name="wile adorable0064" x="10" y="797" width="384" height="726" frameX="-67" frameY="-51" frameWidth="482" frameHeight="778"/>
+	<SubTexture name="wile adorable0065" x="10" y="797" width="384" height="726" frameX="-67" frameY="-51" frameWidth="482" frameHeight="778"/>
+	<SubTexture name="wile adorable0066" x="10" y="797" width="384" height="726" frameX="-67" frameY="-51" frameWidth="482" frameHeight="778"/>
+	<SubTexture name="wile adorable0067" x="10" y="797" width="384" height="726" frameX="-67" frameY="-51" frameWidth="482" frameHeight="778"/>
+	<SubTexture name="wile adorable0068" x="10" y="797" width="384" height="726" frameX="-67" frameY="-51" frameWidth="482" frameHeight="778"/>
+	<SubTexture name="wile adorable0069" x="10" y="797" width="384" height="726" frameX="-67" frameY="-51" frameWidth="482" frameHeight="778"/>
+	<SubTexture name="wile adorable0070" x="10" y="797" width="384" height="726" frameX="-67" frameY="-51" frameWidth="482" frameHeight="778"/>
+	<SubTexture name="wile adorable0071" x="10" y="797" width="384" height="726" frameX="-67" frameY="-51" frameWidth="482" frameHeight="778"/>
+	<SubTexture name="wile adorable0072" x="10" y="797" width="384" height="726" frameX="-67" frameY="-51" frameWidth="482" frameHeight="778"/>
+	<SubTexture name="wile adorable0073" x="10" y="797" width="384" height="726" frameX="-67" frameY="-51" frameWidth="482" frameHeight="778"/>
+	<SubTexture name="wile adorable0074" x="10" y="797" width="384" height="726" frameX="-67" frameY="-51" frameWidth="482" frameHeight="778"/>
+	<SubTexture name="wile adorable0075" x="10" y="797" width="384" height="726" frameX="-67" frameY="-51" frameWidth="482" frameHeight="778"/>
+	<SubTexture name="wile adorable0076" x="10" y="797" width="384" height="726" frameX="-67" frameY="-51" frameWidth="482" frameHeight="778"/>
+	<SubTexture name="wile adorable0077" x="10" y="797" width="384" height="726" frameX="-67" frameY="-51" frameWidth="482" frameHeight="778"/>
+	<SubTexture name="wile adorable0078" x="10" y="797" width="384" height="726" frameX="-67" frameY="-51" frameWidth="482" frameHeight="778"/>
+	<SubTexture name="wile adorable0079" x="10" y="797" width="384" height="726" frameX="-67" frameY="-51" frameWidth="482" frameHeight="778"/>
+	<SubTexture name="wile adorable0080" x="10" y="797" width="384" height="726" frameX="-67" frameY="-51" frameWidth="482" frameHeight="778"/>
+	<SubTexture name="wile adorable0081" x="10" y="797" width="384" height="726" frameX="-67" frameY="-51" frameWidth="482" frameHeight="778"/>
+	<SubTexture name="wile adorable0082" x="10" y="797" width="384" height="726" frameX="-67" frameY="-51" frameWidth="482" frameHeight="778"/>
+	<SubTexture name="wile adorable0083" x="10" y="797" width="384" height="726" frameX="-67" frameY="-51" frameWidth="482" frameHeight="778"/>
+	<SubTexture name="wile adorable0084" x="10" y="797" width="384" height="726" frameX="-67" frameY="-51" frameWidth="482" frameHeight="778"/>
+	<SubTexture name="wile adorable0085" x="10" y="797" width="384" height="726" frameX="-67" frameY="-51" frameWidth="482" frameHeight="778"/>
+	<SubTexture name="wile adorable0086" x="10" y="797" width="384" height="726" frameX="-67" frameY="-51" frameWidth="482" frameHeight="778"/>
+	<SubTexture name="wile adorable0087" x="10" y="797" width="384" height="726" frameX="-67" frameY="-51" frameWidth="482" frameHeight="778"/>
+	<SubTexture name="wile adorable0088" x="10" y="797" width="384" height="726" frameX="-67" frameY="-51" frameWidth="482" frameHeight="778"/>
+	<SubTexture name="wile adorable0089" x="10" y="797" width="384" height="726" frameX="-67" frameY="-51" frameWidth="482" frameHeight="778"/>
+	<SubTexture name="wile adorable0090" x="10" y="797" width="384" height="726" frameX="-67" frameY="-51" frameWidth="482" frameHeight="778"/>
+	<SubTexture name="wile adorable0091" x="10" y="797" width="384" height="726" frameX="-67" frameY="-51" frameWidth="482" frameHeight="778"/>
+	<SubTexture name="wile adorable0092" x="10" y="797" width="384" height="726" frameX="-67" frameY="-51" frameWidth="482" frameHeight="778"/>
+	<SubTexture name="wile adorable0093" x="10" y="797" width="384" height="726" frameX="-67" frameY="-51" frameWidth="482" frameHeight="778"/>
+	<SubTexture name="wile adorable0094" x="10" y="797" width="384" height="726" frameX="-67" frameY="-51" frameWidth="482" frameHeight="778"/>
+	<SubTexture name="wile adorable0095" x="10" y="797" width="384" height="726" frameX="-67" frameY="-51" frameWidth="482" frameHeight="778"/>
+	<SubTexture name="wile adorable0096" x="10" y="797" width="384" height="726" frameX="-67" frameY="-51" frameWidth="482" frameHeight="778"/>
+	<SubTexture name="wile adorable0097" x="10" y="797" width="384" height="726" frameX="-67" frameY="-51" frameWidth="482" frameHeight="778"/>
+	<SubTexture name="wile adorable0098" x="10" y="797" width="384" height="726" frameX="-67" frameY="-51" frameWidth="482" frameHeight="778"/>
+	<SubTexture name="wile art0000" x="404" y="797" width="429" height="710" frameX="-9" frameY="-129" frameWidth="699" frameHeight="839"/>
+	<SubTexture name="wile art0001" x="404" y="797" width="429" height="710" frameX="-9" frameY="-129" frameWidth="699" frameHeight="839"/>
+	<SubTexture name="wile art0002" x="843" y="797" width="429" height="708" frameX="-9" frameY="-131" frameWidth="699" frameHeight="839"/>
+	<SubTexture name="wile art0003" x="843" y="797" width="429" height="708" frameX="-9" frameY="-131" frameWidth="699" frameHeight="839"/>
+	<SubTexture name="wile art0004" x="1282" y="797" width="446" height="692" frameX="0" frameY="-147" frameWidth="699" frameHeight="839"/>
+	<SubTexture name="wile art0005" x="1282" y="797" width="446" height="692" frameX="0" frameY="-147" frameWidth="699" frameHeight="839"/>
+	<SubTexture name="wile art0006" x="1738" y="797" width="686" height="839" frameX="0" frameY="0" frameWidth="699" frameHeight="839"/>
+	<SubTexture name="wile art0007" x="1738" y="797" width="686" height="839" frameX="0" frameY="0" frameWidth="699" frameHeight="839"/>
+	<SubTexture name="wile art0008" x="2434" y="797" width="699" height="824" frameX="0" frameY="-15" frameWidth="699" frameHeight="839"/>
+	<SubTexture name="wile art0009" x="2434" y="797" width="699" height="824" frameX="0" frameY="-15" frameWidth="699" frameHeight="839"/>
+	<SubTexture name="wile art0010" x="3143" y="797" width="693" height="833" frameX="0" frameY="-6" frameWidth="699" frameHeight="839"/>
+	<SubTexture name="wile art0011" x="3143" y="797" width="693" height="833" frameX="0" frameY="-6" frameWidth="699" frameHeight="839"/>
+	<SubTexture name="wile art0012" x="10" y="1646" width="693" height="833" frameX="0" frameY="-6" frameWidth="699" frameHeight="839"/>
+	<SubTexture name="wile art0013" x="10" y="1646" width="693" height="833" frameX="0" frameY="-6" frameWidth="699" frameHeight="839"/>
+	<SubTexture name="wile art0014" x="713" y="1646" width="693" height="833" frameX="0" frameY="-6" frameWidth="699" frameHeight="839"/>
+	<SubTexture name="wile art0015" x="713" y="1646" width="693" height="833" frameX="0" frameY="-6" frameWidth="699" frameHeight="839"/>
+	<SubTexture name="wile art0016" x="10" y="1646" width="693" height="833" frameX="0" frameY="-6" frameWidth="699" frameHeight="839"/>
+	<SubTexture name="wile art0017" x="10" y="1646" width="693" height="833" frameX="0" frameY="-6" frameWidth="699" frameHeight="839"/>
+	<SubTexture name="wile art0018" x="713" y="1646" width="693" height="833" frameX="0" frameY="-6" frameWidth="699" frameHeight="839"/>
+	<SubTexture name="wile art0019" x="713" y="1646" width="693" height="833" frameX="0" frameY="-6" frameWidth="699" frameHeight="839"/>
+	<SubTexture name="wile art0020" x="10" y="1646" width="693" height="833" frameX="0" frameY="-6" frameWidth="699" frameHeight="839"/>
+	<SubTexture name="wile art0021" x="10" y="1646" width="693" height="833" frameX="0" frameY="-6" frameWidth="699" frameHeight="839"/>
+	<SubTexture name="wile art0022" x="713" y="1646" width="693" height="833" frameX="0" frameY="-6" frameWidth="699" frameHeight="839"/>
+	<SubTexture name="wile art0023" x="713" y="1646" width="693" height="833" frameX="0" frameY="-6" frameWidth="699" frameHeight="839"/>
+	<SubTexture name="wile art0024" x="10" y="1646" width="693" height="833" frameX="0" frameY="-6" frameWidth="699" frameHeight="839"/>
+	<SubTexture name="wile art0025" x="10" y="1646" width="693" height="833" frameX="0" frameY="-6" frameWidth="699" frameHeight="839"/>
+	<SubTexture name="wile art0026" x="713" y="1646" width="693" height="833" frameX="0" frameY="-6" frameWidth="699" frameHeight="839"/>
+	<SubTexture name="wile art0027" x="713" y="1646" width="693" height="833" frameX="0" frameY="-6" frameWidth="699" frameHeight="839"/>
+	<SubTexture name="wile art0028" x="10" y="1646" width="693" height="833" frameX="0" frameY="-6" frameWidth="699" frameHeight="839"/>
+	<SubTexture name="wile art0029" x="10" y="1646" width="693" height="833" frameX="0" frameY="-6" frameWidth="699" frameHeight="839"/>
+	<SubTexture name="wile art0030" x="713" y="1646" width="693" height="833" frameX="0" frameY="-6" frameWidth="699" frameHeight="839"/>
+	<SubTexture name="wile art0031" x="713" y="1646" width="693" height="833" frameX="0" frameY="-6" frameWidth="699" frameHeight="839"/>
+	<SubTexture name="wile art0032" x="10" y="1646" width="693" height="833" frameX="0" frameY="-6" frameWidth="699" frameHeight="839"/>
+	<SubTexture name="wile art0033" x="10" y="1646" width="693" height="833" frameX="0" frameY="-6" frameWidth="699" frameHeight="839"/>
+	<SubTexture name="wile art0034" x="10" y="1646" width="693" height="833" frameX="0" frameY="-6" frameWidth="699" frameHeight="839"/>
+	<SubTexture name="wile art0035" x="10" y="1646" width="693" height="833" frameX="0" frameY="-6" frameWidth="699" frameHeight="839"/>
+	<SubTexture name="wile art0036" x="10" y="1646" width="693" height="833" frameX="0" frameY="-6" frameWidth="699" frameHeight="839"/>
+	<SubTexture name="wile art0037" x="10" y="1646" width="693" height="833" frameX="0" frameY="-6" frameWidth="699" frameHeight="839"/>
+	<SubTexture name="wile art0038" x="713" y="1646" width="693" height="833" frameX="0" frameY="-6" frameWidth="699" frameHeight="839"/>
+	<SubTexture name="wile art0039" x="713" y="1646" width="693" height="833" frameX="0" frameY="-6" frameWidth="699" frameHeight="839"/>
+	<SubTexture name="wile art0040" x="10" y="1646" width="693" height="833" frameX="0" frameY="-6" frameWidth="699" frameHeight="839"/>
+	<SubTexture name="wile art0041" x="10" y="1646" width="693" height="833" frameX="0" frameY="-6" frameWidth="699" frameHeight="839"/>
+	<SubTexture name="wile art0042" x="713" y="1646" width="693" height="833" frameX="0" frameY="-6" frameWidth="699" frameHeight="839"/>
+	<SubTexture name="wile art0043" x="713" y="1646" width="693" height="833" frameX="0" frameY="-6" frameWidth="699" frameHeight="839"/>
+	<SubTexture name="wile art0044" x="10" y="1646" width="693" height="833" frameX="0" frameY="-6" frameWidth="699" frameHeight="839"/>
+	<SubTexture name="wile art0045" x="10" y="1646" width="693" height="833" frameX="0" frameY="-6" frameWidth="699" frameHeight="839"/>
+	<SubTexture name="wile art0046" x="713" y="1646" width="693" height="833" frameX="0" frameY="-6" frameWidth="699" frameHeight="839"/>
+	<SubTexture name="wile art0047" x="713" y="1646" width="693" height="833" frameX="0" frameY="-6" frameWidth="699" frameHeight="839"/>
+	<SubTexture name="wile art0048" x="10" y="1646" width="693" height="833" frameX="0" frameY="-6" frameWidth="699" frameHeight="839"/>
+	<SubTexture name="wile art0049" x="10" y="1646" width="693" height="833" frameX="0" frameY="-6" frameWidth="699" frameHeight="839"/>
+	<SubTexture name="wile art0050" x="713" y="1646" width="693" height="833" frameX="0" frameY="-6" frameWidth="699" frameHeight="839"/>
+	<SubTexture name="wile art0051" x="713" y="1646" width="693" height="833" frameX="0" frameY="-6" frameWidth="699" frameHeight="839"/>
+	<SubTexture name="wile art0052" x="10" y="1646" width="693" height="833" frameX="0" frameY="-6" frameWidth="699" frameHeight="839"/>
+	<SubTexture name="wile art0053" x="10" y="1646" width="693" height="833" frameX="0" frameY="-6" frameWidth="699" frameHeight="839"/>
+	<SubTexture name="wile art0054" x="713" y="1646" width="693" height="833" frameX="0" frameY="-6" frameWidth="699" frameHeight="839"/>
+	<SubTexture name="wile art0055" x="713" y="1646" width="693" height="833" frameX="0" frameY="-6" frameWidth="699" frameHeight="839"/>
+	<SubTexture name="wile art0056" x="10" y="1646" width="693" height="833" frameX="0" frameY="-6" frameWidth="699" frameHeight="839"/>
+	<SubTexture name="wile art0057" x="10" y="1646" width="693" height="833" frameX="0" frameY="-6" frameWidth="699" frameHeight="839"/>
+	<SubTexture name="wile art0058" x="10" y="1646" width="693" height="833" frameX="0" frameY="-6" frameWidth="699" frameHeight="839"/>
+	<SubTexture name="wile art0059" x="10" y="1646" width="693" height="833" frameX="0" frameY="-6" frameWidth="699" frameHeight="839"/>
+	<SubTexture name="wile down0000" x="1562" y="2489" width="379" height="419" frameX="0" frameY="-17" frameWidth="379" frameHeight="439"/>
+	<SubTexture name="wile down0001" x="1562" y="2489" width="379" height="419" frameX="0" frameY="-17" frameWidth="379" frameHeight="439"/>
+	<SubTexture name="wile down0002" x="1416" y="1646" width="350" height="436" frameX="-13" frameY="0" frameWidth="379" frameHeight="436"/>
+	<SubTexture name="wile down0003" x="1416" y="1646" width="350" height="436" frameX="-13" frameY="0" frameWidth="379" frameHeight="436"/>
+	<SubTexture name="wile down0004" x="1776" y="1646" width="349" height="434" frameX="-16" frameY="-2" frameWidth="379" frameHeight="436"/>
+	<SubTexture name="wile down0005" x="1776" y="1646" width="349" height="434" frameX="-16" frameY="-2" frameWidth="379" frameHeight="436"/>
+	<SubTexture name="wile down0006" x="1776" y="1646" width="349" height="434" frameX="-16" frameY="-2" frameWidth="379" frameHeight="436"/>
+	<SubTexture name="wile down0007" x="1776" y="1646" width="349" height="434" frameX="-16" frameY="-2" frameWidth="379" frameHeight="436"/>
+	<SubTexture name="wile down0008" x="1776" y="1646" width="349" height="434" frameX="-16" frameY="-2" frameWidth="379" frameHeight="436"/>
+	<SubTexture name="wile down0009" x="1776" y="1646" width="349" height="434" frameX="-16" frameY="-2" frameWidth="379" frameHeight="436"/>
+	<SubTexture name="wile down0010" x="1776" y="1646" width="349" height="434" frameX="-16" frameY="-2" frameWidth="379" frameHeight="436"/>
+	<SubTexture name="wile down0011" x="1776" y="1646" width="349" height="434" frameX="-16" frameY="-2" frameWidth="379" frameHeight="436"/>
+	<SubTexture name="wile down0012" x="1776" y="1646" width="349" height="434" frameX="-16" frameY="-2" frameWidth="379" frameHeight="436"/>
+	<SubTexture name="wile down0013" x="1776" y="1646" width="349" height="434" frameX="-16" frameY="-2" frameWidth="379" frameHeight="436"/>
+	<SubTexture name="wile idle0000" x="2135" y="1646" width="442" height="690" frameX="-2" frameY="-20" frameWidth="446" frameHeight="710"/>
+	<SubTexture name="wile idle0001" x="2135" y="1646" width="442" height="690" frameX="-2" frameY="-20" frameWidth="446" frameHeight="710"/>
+	<SubTexture name="wile idle0002" x="2587" y="1646" width="446" height="692" frameX="0" frameY="-18" frameWidth="446" frameHeight="710"/>
+	<SubTexture name="wile idle0003" x="2587" y="1646" width="446" height="692" frameX="0" frameY="-18" frameWidth="446" frameHeight="710"/>
+	<SubTexture name="wile idle0004" x="3043" y="1646" width="429" height="708" frameX="-9" frameY="-2" frameWidth="446" frameHeight="710"/>
+	<SubTexture name="wile idle0005" x="3043" y="1646" width="429" height="708" frameX="-9" frameY="-2" frameWidth="446" frameHeight="710"/>
+	<SubTexture name="wile idle0006" x="404" y="797" width="429" height="710" frameX="-9" frameY="0" frameWidth="699" frameHeight="839"/>
+	<SubTexture name="wile idle0007" x="404" y="797" width="429" height="710" frameX="-9" frameY="0" frameWidth="699" frameHeight="839"/>
+	<SubTexture name="wile idle0008" x="3482" y="1646" width="429" height="709" frameX="-9" frameY="-1" frameWidth="446" frameHeight="710"/>
+	<SubTexture name="wile idle0009" x="3482" y="1646" width="429" height="709" frameX="-9" frameY="-1" frameWidth="446" frameHeight="710"/>
+	<SubTexture name="wile idle0010" x="3482" y="1646" width="429" height="709" frameX="-9" frameY="-1" frameWidth="446" frameHeight="710"/>
+	<SubTexture name="wile idle0011" x="3482" y="1646" width="429" height="709" frameX="-9" frameY="-1" frameWidth="446" frameHeight="710"/>
+	<SubTexture name="wile idle0012" x="3482" y="1646" width="429" height="709" frameX="-9" frameY="-1" frameWidth="446" frameHeight="710"/>
+	<SubTexture name="wile idle0013" x="3482" y="1646" width="429" height="709" frameX="-9" frameY="-1" frameWidth="446" frameHeight="710"/>
+	<SubTexture name="wile left0000" x="10" y="2489" width="515" height="566" frameX="0" frameY="-2" frameWidth="516" frameHeight="568"/>
+	<SubTexture name="wile left0001" x="10" y="2489" width="515" height="566" frameX="0" frameY="-2" frameWidth="516" frameHeight="568"/>
+	<SubTexture name="wile left0002" x="535" y="2489" width="502" height="568" frameX="-14" frameY="0" frameWidth="516" frameHeight="568"/>
+	<SubTexture name="wile left0003" x="535" y="2489" width="502" height="568" frameX="-14" frameY="0" frameWidth="516" frameHeight="568"/>
+	<SubTexture name="wile left0004" x="1047" y="2489" width="505" height="567" frameX="-10" frameY="-1" frameWidth="516" frameHeight="568"/>
+	<SubTexture name="wile left0005" x="1047" y="2489" width="505" height="567" frameX="-10" frameY="-1" frameWidth="516" frameHeight="568"/>
+	<SubTexture name="wile left0006" x="1047" y="2489" width="505" height="567" frameX="-10" frameY="-1" frameWidth="516" frameHeight="568"/>
+	<SubTexture name="wile left0007" x="1047" y="2489" width="505" height="567" frameX="-10" frameY="-1" frameWidth="516" frameHeight="568"/>
+	<SubTexture name="wile left0008" x="1047" y="2489" width="505" height="567" frameX="-10" frameY="-1" frameWidth="516" frameHeight="568"/>
+	<SubTexture name="wile left0009" x="1047" y="2489" width="505" height="567" frameX="-10" frameY="-1" frameWidth="516" frameHeight="568"/>
+	<SubTexture name="wile left0010" x="1047" y="2489" width="505" height="567" frameX="-10" frameY="-1" frameWidth="516" frameHeight="568"/>
+	<SubTexture name="wile left0011" x="1047" y="2489" width="505" height="567" frameX="-10" frameY="-1" frameWidth="516" frameHeight="568"/>
+	<SubTexture name="wile left0012" x="1047" y="2489" width="505" height="567" frameX="-10" frameY="-1" frameWidth="516" frameHeight="568"/>
+	<SubTexture name="wile left0013" x="1047" y="2489" width="505" height="567" frameX="-10" frameY="-1" frameWidth="516" frameHeight="568"/>
+	<SubTexture name="wile miss down0000" x="1562" y="2489" width="379" height="419" frameX="0" frameY="-20" frameWidth="379" frameHeight="439"/>
+	<SubTexture name="wile miss down0001" x="1951" y="2489" width="349" height="439" frameX="-16" frameY="0" frameWidth="379" frameHeight="439"/>
+	<SubTexture name="wile miss down0002" x="1951" y="2489" width="349" height="439" frameX="-16" frameY="0" frameWidth="379" frameHeight="439"/>
+	<SubTexture name="wile miss down0003" x="2310" y="2489" width="349" height="434" frameX="-16" frameY="-5" frameWidth="379" frameHeight="439"/>
+	<SubTexture name="wile miss down0004" x="2310" y="2489" width="349" height="434" frameX="-16" frameY="-5" frameWidth="379" frameHeight="439"/>
+	<SubTexture name="wile miss down0005" x="2669" y="2489" width="349" height="434" frameX="-16" frameY="-5" frameWidth="379" frameHeight="439"/>
+	<SubTexture name="wile miss down0006" x="2669" y="2489" width="349" height="434" frameX="-16" frameY="-5" frameWidth="379" frameHeight="439"/>
+	<SubTexture name="wile miss down0007" x="2310" y="2489" width="349" height="434" frameX="-16" frameY="-5" frameWidth="379" frameHeight="439"/>
+	<SubTexture name="wile miss down0008" x="2310" y="2489" width="349" height="434" frameX="-16" frameY="-5" frameWidth="379" frameHeight="439"/>
+	<SubTexture name="wile miss down0009" x="2669" y="2489" width="349" height="434" frameX="-16" frameY="-5" frameWidth="379" frameHeight="439"/>
+	<SubTexture name="wile miss down0010" x="2669" y="2489" width="349" height="434" frameX="-16" frameY="-5" frameWidth="379" frameHeight="439"/>
+	<SubTexture name="wile miss down0011" x="2310" y="2489" width="349" height="434" frameX="-16" frameY="-5" frameWidth="379" frameHeight="439"/>
+	<SubTexture name="wile miss down0012" x="2310" y="2489" width="349" height="434" frameX="-16" frameY="-5" frameWidth="379" frameHeight="439"/>
+	<SubTexture name="wile miss down0013" x="2669" y="2489" width="349" height="434" frameX="-16" frameY="-5" frameWidth="379" frameHeight="439"/>
+	<SubTexture name="wile miss left0000" x="10" y="2489" width="515" height="566" frameX="0" frameY="-1" frameWidth="516" frameHeight="568"/>
+	<SubTexture name="wile miss left0001" x="3028" y="2489" width="504" height="567" frameX="-12" frameY="0" frameWidth="516" frameHeight="567"/>
+	<SubTexture name="wile miss left0002" x="3028" y="2489" width="504" height="567" frameX="-12" frameY="0" frameWidth="516" frameHeight="567"/>
+	<SubTexture name="wile miss left0003" x="3542" y="2489" width="505" height="567" frameX="-10" frameY="0" frameWidth="516" frameHeight="567"/>
+	<SubTexture name="wile miss left0004" x="3542" y="2489" width="505" height="567" frameX="-10" frameY="0" frameWidth="516" frameHeight="567"/>
+	<SubTexture name="wile miss left0005" x="10" y="3067" width="505" height="567" frameX="-10" frameY="0" frameWidth="516" frameHeight="567"/>
+	<SubTexture name="wile miss left0006" x="10" y="3067" width="505" height="567" frameX="-10" frameY="0" frameWidth="516" frameHeight="567"/>
+	<SubTexture name="wile miss left0007" x="3542" y="2489" width="505" height="567" frameX="-10" frameY="0" frameWidth="516" frameHeight="567"/>
+	<SubTexture name="wile miss left0008" x="3542" y="2489" width="505" height="567" frameX="-10" frameY="0" frameWidth="516" frameHeight="567"/>
+	<SubTexture name="wile miss left0009" x="10" y="3067" width="505" height="567" frameX="-10" frameY="0" frameWidth="516" frameHeight="567"/>
+	<SubTexture name="wile miss left0010" x="10" y="3067" width="505" height="567" frameX="-10" frameY="0" frameWidth="516" frameHeight="567"/>
+	<SubTexture name="wile miss left0011" x="3542" y="2489" width="505" height="567" frameX="-10" frameY="0" frameWidth="516" frameHeight="567"/>
+	<SubTexture name="wile miss left0012" x="3542" y="2489" width="505" height="567" frameX="-10" frameY="0" frameWidth="516" frameHeight="567"/>
+	<SubTexture name="wile miss left0013" x="10" y="3067" width="505" height="567" frameX="-10" frameY="0" frameWidth="516" frameHeight="567"/>
+	<SubTexture name="wile miss right0000" x="525" y="3067" width="439" height="678"/>
+	<SubTexture name="wile miss right0001" x="974" y="3067" width="424" height="676" frameX="0" frameY="-2" frameWidth="439" frameHeight="678"/>
+	<SubTexture name="wile miss right0002" x="974" y="3067" width="424" height="676" frameX="0" frameY="-2" frameWidth="439" frameHeight="678"/>
+	<SubTexture name="wile miss right0003" x="1408" y="3067" width="427" height="676" frameX="0" frameY="-2" frameWidth="439" frameHeight="678"/>
+	<SubTexture name="wile miss right0004" x="1408" y="3067" width="427" height="676" frameX="0" frameY="-2" frameWidth="439" frameHeight="678"/>
+	<SubTexture name="wile miss right0005" x="1845" y="3067" width="427" height="676" frameX="0" frameY="-2" frameWidth="439" frameHeight="678"/>
+	<SubTexture name="wile miss right0006" x="1845" y="3067" width="427" height="676" frameX="0" frameY="-2" frameWidth="439" frameHeight="678"/>
+	<SubTexture name="wile miss right0007" x="1408" y="3067" width="427" height="676" frameX="0" frameY="-2" frameWidth="439" frameHeight="678"/>
+	<SubTexture name="wile miss right0008" x="1408" y="3067" width="427" height="676" frameX="0" frameY="-2" frameWidth="439" frameHeight="678"/>
+	<SubTexture name="wile miss right0009" x="1845" y="3067" width="427" height="676" frameX="0" frameY="-2" frameWidth="439" frameHeight="678"/>
+	<SubTexture name="wile miss right0010" x="1845" y="3067" width="427" height="676" frameX="0" frameY="-2" frameWidth="439" frameHeight="678"/>
+	<SubTexture name="wile miss right0011" x="1408" y="3067" width="427" height="676" frameX="0" frameY="-2" frameWidth="439" frameHeight="678"/>
+	<SubTexture name="wile miss right0012" x="1408" y="3067" width="427" height="676" frameX="0" frameY="-2" frameWidth="439" frameHeight="678"/>
+	<SubTexture name="wile miss right0013" x="1845" y="3067" width="427" height="676" frameX="0" frameY="-2" frameWidth="439" frameHeight="678"/>
+	<SubTexture name="wile miss up0000" x="1765" y="4539" width="296" height="719" frameX="-4" frameY="0" frameWidth="301" frameHeight="720"/>
+	<SubTexture name="wile miss up0001" x="2282" y="3067" width="305" height="701" frameX="0" frameY="-19" frameWidth="305" frameHeight="720"/>
+	<SubTexture name="wile miss up0002" x="2282" y="3067" width="305" height="701" frameX="0" frameY="-19" frameWidth="305" frameHeight="720"/>
+	<SubTexture name="wile miss up0003" x="2597" y="3067" width="301" height="706" frameX="-2" frameY="-14" frameWidth="305" frameHeight="720"/>
+	<SubTexture name="wile miss up0004" x="2597" y="3067" width="301" height="706" frameX="-2" frameY="-14" frameWidth="305" frameHeight="720"/>
+	<SubTexture name="wile miss up0005" x="2908" y="3067" width="301" height="706" frameX="-2" frameY="-14" frameWidth="305" frameHeight="720"/>
+	<SubTexture name="wile miss up0006" x="2908" y="3067" width="301" height="706" frameX="-2" frameY="-14" frameWidth="305" frameHeight="720"/>
+	<SubTexture name="wile miss up0007" x="2597" y="3067" width="301" height="706" frameX="-2" frameY="-14" frameWidth="305" frameHeight="720"/>
+	<SubTexture name="wile miss up0008" x="2597" y="3067" width="301" height="706" frameX="-2" frameY="-14" frameWidth="305" frameHeight="720"/>
+	<SubTexture name="wile miss up0009" x="2908" y="3067" width="301" height="706" frameX="-2" frameY="-14" frameWidth="305" frameHeight="720"/>
+	<SubTexture name="wile miss up0010" x="2908" y="3067" width="301" height="706" frameX="-2" frameY="-14" frameWidth="305" frameHeight="720"/>
+	<SubTexture name="wile miss up0011" x="2597" y="3067" width="301" height="706" frameX="-2" frameY="-14" frameWidth="305" frameHeight="720"/>
+	<SubTexture name="wile miss up0012" x="2597" y="3067" width="301" height="706" frameX="-2" frameY="-14" frameWidth="305" frameHeight="720"/>
+	<SubTexture name="wile miss up0013" x="2908" y="3067" width="301" height="706" frameX="-2" frameY="-14" frameWidth="305" frameHeight="720"/>
+	<SubTexture name="wile nothing0000" x="3219" y="3067" width="453" height="691" frameX="-37" frameY="-56" frameWidth="490" frameHeight="747"/>
+	<SubTexture name="wile nothing0001" x="3219" y="3067" width="453" height="691" frameX="-37" frameY="-56" frameWidth="490" frameHeight="747"/>
+	<SubTexture name="wile nothing0002" x="10" y="3783" width="430" height="740" frameX="-12" frameY="-6" frameWidth="490" frameHeight="747"/>
+	<SubTexture name="wile nothing0003" x="10" y="3783" width="430" height="740" frameX="-12" frameY="-6" frameWidth="490" frameHeight="747"/>
+	<SubTexture name="wile nothing0004" x="450" y="3783" width="454" height="726" frameX="0" frameY="-20" frameWidth="490" frameHeight="747"/>
+	<SubTexture name="wile nothing0005" x="450" y="3783" width="454" height="726" frameX="0" frameY="-20" frameWidth="490" frameHeight="747"/>
+	<SubTexture name="wile nothing0006" x="914" y="3783" width="440" height="729" frameX="-7" frameY="-17" frameWidth="490" frameHeight="747"/>
+	<SubTexture name="wile nothing0007" x="914" y="3783" width="440" height="729" frameX="-7" frameY="-17" frameWidth="490" frameHeight="747"/>
+	<SubTexture name="wile nothing0008" x="914" y="3783" width="440" height="729" frameX="-7" frameY="-17" frameWidth="490" frameHeight="747"/>
+	<SubTexture name="wile nothing0009" x="914" y="3783" width="440" height="729" frameX="-7" frameY="-17" frameWidth="490" frameHeight="747"/>
+	<SubTexture name="wile nothing0010" x="914" y="3783" width="440" height="729" frameX="-7" frameY="-17" frameWidth="490" frameHeight="747"/>
+	<SubTexture name="wile nothing0011" x="914" y="3783" width="440" height="729" frameX="-7" frameY="-17" frameWidth="490" frameHeight="747"/>
+	<SubTexture name="wile nothing0012" x="914" y="3783" width="440" height="729" frameX="-7" frameY="-17" frameWidth="490" frameHeight="747"/>
+	<SubTexture name="wile nothing0013" x="914" y="3783" width="440" height="729" frameX="-7" frameY="-17" frameWidth="490" frameHeight="747"/>
+	<SubTexture name="wile nothing0014" x="914" y="3783" width="440" height="729" frameX="-7" frameY="-17" frameWidth="490" frameHeight="747"/>
+	<SubTexture name="wile nothing0015" x="914" y="3783" width="440" height="729" frameX="-7" frameY="-17" frameWidth="490" frameHeight="747"/>
+	<SubTexture name="wile nothing0016" x="914" y="3783" width="440" height="729" frameX="-7" frameY="-17" frameWidth="490" frameHeight="747"/>
+	<SubTexture name="wile nothing0017" x="1364" y="3783" width="445" height="729" frameX="-1" frameY="-17" frameWidth="490" frameHeight="747"/>
+	<SubTexture name="wile nothing0018" x="1364" y="3783" width="445" height="729" frameX="-1" frameY="-17" frameWidth="490" frameHeight="747"/>
+	<SubTexture name="wile nothing0019" x="1819" y="3783" width="446" height="729" frameX="0" frameY="-17" frameWidth="490" frameHeight="747"/>
+	<SubTexture name="wile nothing0020" x="1819" y="3783" width="446" height="729" frameX="0" frameY="-17" frameWidth="490" frameHeight="747"/>
+	<SubTexture name="wile nothing0021" x="1819" y="3783" width="446" height="729" frameX="0" frameY="-17" frameWidth="490" frameHeight="747"/>
+	<SubTexture name="wile nothing0022" x="1819" y="3783" width="446" height="729" frameX="0" frameY="-17" frameWidth="490" frameHeight="747"/>
+	<SubTexture name="wile nothing0023" x="1819" y="3783" width="446" height="729" frameX="0" frameY="-17" frameWidth="490" frameHeight="747"/>
+	<SubTexture name="wile nothing0024" x="1819" y="3783" width="446" height="729" frameX="0" frameY="-17" frameWidth="490" frameHeight="747"/>
+	<SubTexture name="wile nothing0025" x="2275" y="3783" width="431" height="730" frameX="-17" frameY="-16" frameWidth="490" frameHeight="747"/>
+	<SubTexture name="wile nothing0026" x="2275" y="3783" width="431" height="730" frameX="-17" frameY="-16" frameWidth="490" frameHeight="747"/>
+	<SubTexture name="wile nothing0027" x="2716" y="3783" width="430" height="730" frameX="-18" frameY="-16" frameWidth="490" frameHeight="747"/>
+	<SubTexture name="wile nothing0028" x="2716" y="3783" width="430" height="730" frameX="-18" frameY="-16" frameWidth="490" frameHeight="747"/>
+	<SubTexture name="wile nothing0029" x="2716" y="3783" width="430" height="730" frameX="-18" frameY="-16" frameWidth="490" frameHeight="747"/>
+	<SubTexture name="wile nothing0030" x="2716" y="3783" width="430" height="730" frameX="-18" frameY="-16" frameWidth="490" frameHeight="747"/>
+	<SubTexture name="wile nothing0031" x="2716" y="3783" width="430" height="730" frameX="-18" frameY="-16" frameWidth="490" frameHeight="747"/>
+	<SubTexture name="wile nothing0032" x="2716" y="3783" width="430" height="730" frameX="-18" frameY="-16" frameWidth="490" frameHeight="747"/>
+	<SubTexture name="wile nothing0033" x="2716" y="3783" width="430" height="730" frameX="-18" frameY="-16" frameWidth="490" frameHeight="747"/>
+	<SubTexture name="wile nothing0034" x="2716" y="3783" width="430" height="730" frameX="-18" frameY="-16" frameWidth="490" frameHeight="747"/>
+	<SubTexture name="wile nothing0035" x="2716" y="3783" width="430" height="730" frameX="-18" frameY="-16" frameWidth="490" frameHeight="747"/>
+	<SubTexture name="wile nothing0036" x="2716" y="3783" width="430" height="730" frameX="-18" frameY="-16" frameWidth="490" frameHeight="747"/>
+	<SubTexture name="wile nothing0037" x="2716" y="3783" width="430" height="730" frameX="-18" frameY="-16" frameWidth="490" frameHeight="747"/>
+	<SubTexture name="wile nothing0038" x="2716" y="3783" width="430" height="730" frameX="-18" frameY="-16" frameWidth="490" frameHeight="747"/>
+	<SubTexture name="wile nothing0039" x="2716" y="3783" width="430" height="730" frameX="-18" frameY="-16" frameWidth="490" frameHeight="747"/>
+	<SubTexture name="wile nothing0040" x="2716" y="3783" width="430" height="730" frameX="-18" frameY="-16" frameWidth="490" frameHeight="747"/>
+	<SubTexture name="wile nothing0041" x="2716" y="3783" width="430" height="730" frameX="-18" frameY="-16" frameWidth="490" frameHeight="747"/>
+	<SubTexture name="wile nothing0042" x="2716" y="3783" width="430" height="730" frameX="-18" frameY="-16" frameWidth="490" frameHeight="747"/>
+	<SubTexture name="wile nothing0043" x="2716" y="3783" width="430" height="730" frameX="-18" frameY="-16" frameWidth="490" frameHeight="747"/>
+	<SubTexture name="wile nothing0044" x="2716" y="3783" width="430" height="730" frameX="-18" frameY="-16" frameWidth="490" frameHeight="747"/>
+	<SubTexture name="wile nothing0045" x="3156" y="3783" width="407" height="746" frameX="-30" frameY="0" frameWidth="490" frameHeight="747"/>
+	<SubTexture name="wile nothing0046" x="3156" y="3783" width="407" height="746" frameX="-30" frameY="0" frameWidth="490" frameHeight="747"/>
+	<SubTexture name="wile nothing0047" x="3573" y="3783" width="438" height="724" frameX="-14" frameY="-22" frameWidth="490" frameHeight="747"/>
+	<SubTexture name="wile nothing0048" x="3573" y="3783" width="438" height="724" frameX="-14" frameY="-22" frameWidth="490" frameHeight="747"/>
+	<SubTexture name="wile nothing0049" x="10" y="4539" width="430" height="731" frameX="-18" frameY="-15" frameWidth="490" frameHeight="747"/>
+	<SubTexture name="wile nothing0050" x="10" y="4539" width="430" height="731" frameX="-18" frameY="-15" frameWidth="490" frameHeight="747"/>
+	<SubTexture name="wile nothing0051" x="10" y="4539" width="430" height="731" frameX="-18" frameY="-15" frameWidth="490" frameHeight="747"/>
+	<SubTexture name="wile nothing0052" x="10" y="4539" width="430" height="731" frameX="-18" frameY="-15" frameWidth="490" frameHeight="747"/>
+	<SubTexture name="wile nothing0053" x="10" y="4539" width="430" height="731" frameX="-18" frameY="-15" frameWidth="490" frameHeight="747"/>
+	<SubTexture name="wile nothing0054" x="10" y="4539" width="430" height="731" frameX="-18" frameY="-15" frameWidth="490" frameHeight="747"/>
+	<SubTexture name="wile nothing0055" x="10" y="4539" width="430" height="731" frameX="-18" frameY="-15" frameWidth="490" frameHeight="747"/>
+	<SubTexture name="wile nothing0056" x="10" y="4539" width="430" height="731" frameX="-18" frameY="-15" frameWidth="490" frameHeight="747"/>
+	<SubTexture name="wile nothing0057" x="10" y="4539" width="430" height="731" frameX="-18" frameY="-15" frameWidth="490" frameHeight="747"/>
+	<SubTexture name="wile nothing0058" x="10" y="4539" width="430" height="731" frameX="-18" frameY="-15" frameWidth="490" frameHeight="747"/>
+	<SubTexture name="wile nothing0059" x="10" y="4539" width="430" height="731" frameX="-18" frameY="-15" frameWidth="490" frameHeight="747"/>
+	<SubTexture name="wile nothing0060" x="10" y="4539" width="430" height="731" frameX="-18" frameY="-15" frameWidth="490" frameHeight="747"/>
+	<SubTexture name="wile nothing0061" x="10" y="4539" width="430" height="731" frameX="-18" frameY="-15" frameWidth="490" frameHeight="747"/>
+	<SubTexture name="wile nothing0062" x="10" y="4539" width="430" height="731" frameX="-18" frameY="-15" frameWidth="490" frameHeight="747"/>
+	<SubTexture name="wile nothing0063" x="10" y="4539" width="430" height="731" frameX="-18" frameY="-15" frameWidth="490" frameHeight="747"/>
+	<SubTexture name="wile nothing0064" x="10" y="4539" width="430" height="731" frameX="-18" frameY="-15" frameWidth="490" frameHeight="747"/>
+	<SubTexture name="wile nothing0065" x="450" y="4539" width="430" height="731" frameX="-18" frameY="-15" frameWidth="490" frameHeight="747"/>
+	<SubTexture name="wile nothing0066" x="450" y="4539" width="430" height="731" frameX="-18" frameY="-15" frameWidth="490" frameHeight="747"/>
+	<SubTexture name="wile nothing0067" x="450" y="4539" width="430" height="731" frameX="-18" frameY="-15" frameWidth="490" frameHeight="747"/>
+	<SubTexture name="wile nothing0068" x="450" y="4539" width="430" height="731" frameX="-18" frameY="-15" frameWidth="490" frameHeight="747"/>
+	<SubTexture name="wile nothing0069" x="450" y="4539" width="430" height="731" frameX="-18" frameY="-15" frameWidth="490" frameHeight="747"/>
+	<SubTexture name="wile nothing0070" x="450" y="4539" width="430" height="731" frameX="-18" frameY="-15" frameWidth="490" frameHeight="747"/>
+	<SubTexture name="wile nothing0071" x="450" y="4539" width="430" height="731" frameX="-18" frameY="-15" frameWidth="490" frameHeight="747"/>
+	<SubTexture name="wile nothing0072" x="450" y="4539" width="430" height="731" frameX="-18" frameY="-15" frameWidth="490" frameHeight="747"/>
+	<SubTexture name="wile nothing0073" x="450" y="4539" width="430" height="731" frameX="-18" frameY="-15" frameWidth="490" frameHeight="747"/>
+	<SubTexture name="wile nothing0074" x="450" y="4539" width="430" height="731" frameX="-18" frameY="-15" frameWidth="490" frameHeight="747"/>
+	<SubTexture name="wile nothing0075" x="450" y="4539" width="430" height="731" frameX="-18" frameY="-15" frameWidth="490" frameHeight="747"/>
+	<SubTexture name="wile nothing0076" x="450" y="4539" width="430" height="731" frameX="-18" frameY="-15" frameWidth="490" frameHeight="747"/>
+	<SubTexture name="wile nothing0077" x="450" y="4539" width="430" height="731" frameX="-18" frameY="-15" frameWidth="490" frameHeight="747"/>
+	<SubTexture name="wile nothing0078" x="450" y="4539" width="430" height="731" frameX="-18" frameY="-15" frameWidth="490" frameHeight="747"/>
+	<SubTexture name="wile nothing0079" x="450" y="4539" width="430" height="731" frameX="-18" frameY="-15" frameWidth="490" frameHeight="747"/>
+	<SubTexture name="wile nothing0080" x="450" y="4539" width="430" height="731" frameX="-18" frameY="-15" frameWidth="490" frameHeight="747"/>
+	<SubTexture name="wile nothing0081" x="450" y="4539" width="430" height="731" frameX="-18" frameY="-15" frameWidth="490" frameHeight="747"/>
+	<SubTexture name="wile nothing0082" x="450" y="4539" width="430" height="731" frameX="-18" frameY="-15" frameWidth="490" frameHeight="747"/>
+	<SubTexture name="wile nothing0083" x="450" y="4539" width="430" height="731" frameX="-18" frameY="-15" frameWidth="490" frameHeight="747"/>
+	<SubTexture name="wile nothing0084" x="450" y="4539" width="430" height="731" frameX="-18" frameY="-15" frameWidth="490" frameHeight="747"/>
+	<SubTexture name="wile nothing0085" x="450" y="4539" width="430" height="731" frameX="-18" frameY="-15" frameWidth="490" frameHeight="747"/>
+	<SubTexture name="wile nothing0086" x="450" y="4539" width="430" height="731" frameX="-18" frameY="-15" frameWidth="490" frameHeight="747"/>
+	<SubTexture name="wile nothing0087" x="450" y="4539" width="430" height="731" frameX="-18" frameY="-15" frameWidth="490" frameHeight="747"/>
+	<SubTexture name="wile nothing0088" x="450" y="4539" width="430" height="731" frameX="-18" frameY="-15" frameWidth="490" frameHeight="747"/>
+	<SubTexture name="wile nothing0089" x="450" y="4539" width="430" height="731" frameX="-18" frameY="-15" frameWidth="490" frameHeight="747"/>
+	<SubTexture name="wile nothing0090" x="450" y="4539" width="430" height="731" frameX="-18" frameY="-15" frameWidth="490" frameHeight="747"/>
+	<SubTexture name="wile nothing0091" x="450" y="4539" width="430" height="731" frameX="-18" frameY="-15" frameWidth="490" frameHeight="747"/>
+	<SubTexture name="wile nothing0092" x="450" y="4539" width="430" height="731" frameX="-18" frameY="-15" frameWidth="490" frameHeight="747"/>
+	<SubTexture name="wile nothing0093" x="450" y="4539" width="430" height="731" frameX="-18" frameY="-15" frameWidth="490" frameHeight="747"/>
+	<SubTexture name="wile nothing0094" x="450" y="4539" width="430" height="731" frameX="-18" frameY="-15" frameWidth="490" frameHeight="747"/>
+	<SubTexture name="wile nothing0095" x="450" y="4539" width="430" height="731" frameX="-18" frameY="-15" frameWidth="490" frameHeight="747"/>
+	<SubTexture name="wile nothing0096" x="450" y="4539" width="430" height="731" frameX="-18" frameY="-15" frameWidth="490" frameHeight="747"/>
+	<SubTexture name="wile nothing0097" x="450" y="4539" width="430" height="731" frameX="-18" frameY="-15" frameWidth="490" frameHeight="747"/>
+	<SubTexture name="wile nothing0098" x="450" y="4539" width="430" height="731" frameX="-18" frameY="-15" frameWidth="490" frameHeight="747"/>
+	<SubTexture name="wile right0000" x="525" y="3067" width="439" height="678"/>
+	<SubTexture name="wile right0001" x="525" y="3067" width="439" height="678"/>
+	<SubTexture name="wile right0002" x="890" y="4539" width="428" height="676" frameX="0" frameY="-2" frameWidth="439" frameHeight="678"/>
+	<SubTexture name="wile right0003" x="890" y="4539" width="428" height="676" frameX="0" frameY="-2" frameWidth="439" frameHeight="678"/>
+	<SubTexture name="wile right0004" x="1328" y="4539" width="427" height="676" frameX="0" frameY="-2" frameWidth="439" frameHeight="678"/>
+	<SubTexture name="wile right0005" x="1328" y="4539" width="427" height="676" frameX="0" frameY="-2" frameWidth="439" frameHeight="678"/>
+	<SubTexture name="wile right0006" x="1328" y="4539" width="427" height="676" frameX="0" frameY="-2" frameWidth="439" frameHeight="678"/>
+	<SubTexture name="wile right0007" x="1328" y="4539" width="427" height="676" frameX="0" frameY="-2" frameWidth="439" frameHeight="678"/>
+	<SubTexture name="wile right0008" x="1328" y="4539" width="427" height="676" frameX="0" frameY="-2" frameWidth="439" frameHeight="678"/>
+	<SubTexture name="wile right0009" x="1328" y="4539" width="427" height="676" frameX="0" frameY="-2" frameWidth="439" frameHeight="678"/>
+	<SubTexture name="wile right0010" x="1328" y="4539" width="427" height="676" frameX="0" frameY="-2" frameWidth="439" frameHeight="678"/>
+	<SubTexture name="wile right0011" x="1328" y="4539" width="427" height="676" frameX="0" frameY="-2" frameWidth="439" frameHeight="678"/>
+	<SubTexture name="wile right0012" x="1328" y="4539" width="427" height="676" frameX="0" frameY="-2" frameWidth="439" frameHeight="678"/>
+	<SubTexture name="wile right0013" x="1328" y="4539" width="427" height="676" frameX="0" frameY="-2" frameWidth="439" frameHeight="678"/>
+	<SubTexture name="wile up0000" x="1765" y="4539" width="296" height="719" frameX="-2" frameY="0" frameWidth="301" frameHeight="720"/>
+	<SubTexture name="wile up0001" x="1765" y="4539" width="296" height="719" frameX="-2" frameY="0" frameWidth="301" frameHeight="720"/>
+	<SubTexture name="wile up0002" x="2071" y="4539" width="301" height="706" frameX="0" frameY="-14" frameWidth="301" frameHeight="720"/>
+	<SubTexture name="wile up0003" x="2071" y="4539" width="301" height="706" frameX="0" frameY="-14" frameWidth="301" frameHeight="720"/>
+	<SubTexture name="wile up0004" x="2382" y="4539" width="301" height="706" frameX="0" frameY="-14" frameWidth="301" frameHeight="720"/>
+	<SubTexture name="wile up0005" x="2382" y="4539" width="301" height="706" frameX="0" frameY="-14" frameWidth="301" frameHeight="720"/>
+	<SubTexture name="wile up0006" x="2382" y="4539" width="301" height="706" frameX="0" frameY="-14" frameWidth="301" frameHeight="720"/>
+	<SubTexture name="wile up0007" x="2382" y="4539" width="301" height="706" frameX="0" frameY="-14" frameWidth="301" frameHeight="720"/>
+	<SubTexture name="wile up0008" x="2382" y="4539" width="301" height="706" frameX="0" frameY="-14" frameWidth="301" frameHeight="720"/>
+	<SubTexture name="wile up0009" x="2382" y="4539" width="301" height="706" frameX="0" frameY="-14" frameWidth="301" frameHeight="720"/>
+	<SubTexture name="wile up0010" x="2382" y="4539" width="301" height="706" frameX="0" frameY="-14" frameWidth="301" frameHeight="720"/>
+	<SubTexture name="wile up0011" x="2382" y="4539" width="301" height="706" frameX="0" frameY="-14" frameWidth="301" frameHeight="720"/>
+	<SubTexture name="wile up0012" x="2382" y="4539" width="301" height="706" frameX="0" frameY="-14" frameWidth="301" frameHeight="720"/>
+	<SubTexture name="wile up0013" x="2382" y="4539" width="301" height="706" frameX="0" frameY="-14" frameWidth="301" frameHeight="720"/>
+</TextureAtlas>
