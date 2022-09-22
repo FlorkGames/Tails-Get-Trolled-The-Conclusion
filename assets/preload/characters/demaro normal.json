@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				5,
+				-13
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "demaro normal"
+		},
+		{
+			"offsets": [
+				23,
+				-6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "ugh",
+			"indices": [],
+			"name": "demaro ugh"
+		},
+		{
+			"offsets": [
+				20,
+				-5
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "trans",
+			"loop": false,
+			"name": "demaro trans"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/demaro normal",
+	"position": [
+		80,
+		200
+	],
+	"healthicon": "demaro",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		-450,
+		-120
+	],
+	"sing_duration": 6.1,
+	"scale": 1.3
+}

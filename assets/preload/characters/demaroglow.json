@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "demaro idle"
+		},
+		{
+			"offsets": [
+				123,
+				-2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "demaro left"
+		},
+		{
+			"offsets": [
+				20,
+				-35
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "demaro down"
+		},
+		{
+			"offsets": [
+				-7,
+				43
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "demaro up"
+		},
+		{
+			"offsets": [
+				-42,
+				4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "demaro right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/demaro glow",
+	"position": [
+		100,
+		160
+	],
+	"healthicon": "demaro_super",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-450,
+		-120
+	],
+	"sing_duration": 6.1,
+	"scale": 1.3
+}
