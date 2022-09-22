@@ -1,1 +1,1 @@
-Put your custom character .json files here!
+Drop your custom week .json files here!
