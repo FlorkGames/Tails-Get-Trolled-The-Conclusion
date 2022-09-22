@@ -1,0 +1,32 @@
+{
+	"storyName": "TGT",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "MM",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Neutralize",
+			"icon-demaro_super",
+			[
+				255,
+				0,
+				40
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "TGT",
+	"hiddenUntilUnlocked": false
+}
