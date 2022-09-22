@@ -1,0 +1,6 @@
+Adds cinematic Bars With Hud
+
+Value 1: Bar amount
+(number between 0 to 10)
+Value 2: Time to Zoom 
+(0 or blank for instant zoom) 

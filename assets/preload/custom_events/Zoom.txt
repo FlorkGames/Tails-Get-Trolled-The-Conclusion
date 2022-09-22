@@ -1,0 +1,6 @@
+Sets the Default Zoom level
+Just put in any number, typically
+the default zoom level is 0.9 for most stages.
+I wouldn't recommend going past 1.5.
+This doesn't go back to normal unless you put in
+the number the stage was originally at before.
